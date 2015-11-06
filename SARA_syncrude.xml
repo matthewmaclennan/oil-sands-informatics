@@ -10,7 +10,7 @@
         <attapulgus_clay>
           <n-C5>
             <Saturates_Aromatics>
-              <SiO2/Al2O3>
+              <SiO2_Al2O3>
                 <n-C5>
                   <Saturates>
                   </Saturates>
@@ -23,7 +23,7 @@
                   <Resins_I>
                   </Resins_I>
                 </methyl_ethyl_ketone>
-              </SiO2/Al2O3>
+              </SiO2_Al2O3>
             </Saturates_Aromatics>
           </n-C5>
           <methyl_ethyl_ketone>
