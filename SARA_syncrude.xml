@@ -1,0 +1,38 @@
+<SARA>
+  <bitumen>
+	  <n-C5>
+	    <Precipitate asphaltene>
+	    </Precipitate asphaltene>
+		  <Solution>
+        <attapulgus clay>
+          <n-C5>
+            <Saturates Aromatics>
+              <SiO2/Al2O3>
+                <n-C5>
+                  <Saturates>
+                  </Saturates>
+                </n-C5>
+                <benzene>
+                  <Aromatics>
+                  </Aromatics>
+                </benzene>
+                <methyl ethyl ketone>
+                  <Resins I>
+                  </Resins I>
+                </methyl ethyl ketone>
+              </SiO2/Al2O3>
+            </Saturates Aromatics>
+          </n-C5>
+          <methyl ethyl ketone>
+            <Resins I>
+            </Resins I>
+          </methyl ethyl ketone>
+          <tetrahydrofuran+1% water>
+            <Resins II>
+            </Resins II>
+          </tetrahydrofuran+1% water>
+        </attapulgus clay>
+		  </Solution>
+	  </n-C5>
+  </bitumen>
+</SARA>
