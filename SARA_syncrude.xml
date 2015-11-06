@@ -3,12 +3,39 @@
 <author>Elizabeth M. Lown</author>
 <SARA>
   <bitumen>
-	  <n-C5>
-	    <Precipitate_asphaltene>
-	    </Precipitate_asphaltene>
+	  <method>
+	  	<name>extraction
+	  		<solvent>CCCCC
+				<Precipitate_asphaltene></Precipitate_asphaltene>
+				<Solution>
+					<method>
+						<adsorption>
+							<material>
+								<attapulgus_clay>
+									<solvent>
+										<methyl_ethyl_ketone>
+											<Resins_I></Resins_I>
+										</methyl_ethyl_ketone>
+									</solvent>
+								</attapulgus_clay>
+							</material>
+						</adsorption>
+					</method>
+				</Solution>
+	  		</solvent>
+	  	</name>
+	  	
+	  </method>
+		
+		
+		
+		
+		
+		
+		
+		
 		  <Solution>
         <attapulgus_clay>
-          <n-C5>
             <Saturates_Aromatics>
               <SiO2_Al2O3>
                 <n-C5>
