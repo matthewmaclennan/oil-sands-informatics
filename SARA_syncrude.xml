@@ -1,3 +1,6 @@
+<book page="122" Figure=5.12>"The Chemistry of Alberta oil sands, bitumens, and heavy oils"
+<author>Otto Strausz</author>
+<author>Elizabeth M. Lown</author>
 <SARA>
   <bitumen>
 	  <n-C5>
@@ -36,3 +39,4 @@
 	  </n-C5>
   </bitumen>
 </SARA>
+</book>
