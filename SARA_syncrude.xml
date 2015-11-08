@@ -17,6 +17,16 @@
 											<Resins_I></Resins_I>
 										</methyl_ethyl_ketone>
 									</solvent>
+									<solvent>
+										<tetrahydrofuran_water>
+											<Reins_II></Reins_II>
+										</tetrahydrofuran_water>
+									</solvent>
+									<solvent>CCCCC
+										<Saturates_Aromatics>
+											
+										</Saturates_Aromatics>
+									</solvent>
 								</attapulgus_clay>
 							</material>
 						</adsorption>
